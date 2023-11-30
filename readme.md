@@ -40,4 +40,4 @@ Licencia
 Este proyecto está licenciado bajo la Licencia MIT.
 
 Contacto
-Si tienes alguna pregunta o comentario, no dudes en contactarme en tu-correo@example.com. ¡Gracias por tu interés en la Libreta de Contactos!
+Si tienes alguna pregunta o comentario, no dudes en contactarme en jonathan.payan.pineda@gmail.com. ¡Gracias por tu interés en la Libreta de Contactos!
